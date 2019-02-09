@@ -1,1 +1,1 @@
-# elixir-training
+# elixir
